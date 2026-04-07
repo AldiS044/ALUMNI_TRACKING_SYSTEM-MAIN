@@ -43,7 +43,7 @@ Proyek ini dibuat sebagai bagian dari **Daily Project 3** pada mata kuliah Rekay
 ## 📁 Struktur Project
 
 ```
-alumni-tracking-system/
+alumni_tracking_system-main/
 │
 ├── app.py
 ├── requirements.txt
@@ -59,8 +59,8 @@ alumni-tracking-system/
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/username/alumni-tracking-system.git
-cd alumni-tracking-system
+git clone https://github.com/username/alumni_tracking_system-main.git
+cd alumni_tracking_system-main
 ```
 
 ### 2. Install Dependency
