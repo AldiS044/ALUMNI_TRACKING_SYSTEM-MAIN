@@ -114,18 +114,13 @@ http://127.0.0.1:5000
 
 ---
 
-## 🚀 Pengembangan Selanjutnya
+## Link Website
 
-* Import data alumni dari Excel
-* Upload file Excel melalui web
-* Dashboard statistik alumni
-* Fitur autentikasi pengguna
+https://alumnitrackingsystem-main--aldisaputra03.replit.app
 
----
+--
 
 ## 👨‍💻 Developer
 
 **Aldi Saputra**
 NIM: 202110370311044
-
----
